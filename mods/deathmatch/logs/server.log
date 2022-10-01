@@ -1,0 +1,666 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-10-01 08:50:59] Compacting accounts database 'internal.db' ...
+[2022-10-01 08:51:02] Resources: 194 loaded, 0 failed
+[2022-10-01 08:51:02] Compacting database 'registry.db' ...
+[2022-10-01 08:51:02] Starting resources...
+[2022-10-01 08:51:02] Admin access list successfully updated 
+[2022-10-01 08:51:02] INFO: Admin added 538 missing rights
+[2022-10-01 08:51:03] Server minclientversion is now 1.5.9-9.20957.0
+[2022-10-01 08:51:03] Gamemode 'play' started.
+[2022-10-01 08:51:03] Querying MTA master server... success! (Auto detected IP:129.222.185.67)
+[2022-10-01 08:51:03] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-10-01 08:51:03] WARNING: <owner_email_address> not set
+[2022-10-01 08:51:03] Server started and is ready to accept connections!
+[2022-10-01 08:51:03] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-01 08:51:03] Type 'help' for a list of commands.
+[2022-10-01 08:51:10] Server stopped!
+[2022-10-01 08:51:11] Stopping resources.......................
+[2022-10-01 08:51:11] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : || True Life of Crime RP ||
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-10-01 09:20:25] Resources: 1 loaded, 0 failed
+[2022-10-01 09:20:25] MODULE: File not found - mods\deathmatch\modules\mta_mysql.dll
+[2022-10-01 09:20:25] Starting resources....
+[2022-10-01 09:20:25] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-10-01 09:20:25] Server started and is ready to accept connections!
+[2022-10-01 09:20:25] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-01 09:20:25] Type 'help' for a list of commands.
+[2022-10-01 09:20:25] Querying MTA master server... success! (Auto detected IP:129.222.185.67)
+[2022-10-01 09:20:53] Server minclientversion is now 1.5.9-9.21261.0
+[2022-10-01 09:20:53] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 09:20:53] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 09:21:06] QUIT: XeroXipher left the game [Quit]
+[2022-10-01 09:29:03] New resource 'vehicles' loaded
+[2022-10-01 09:29:03] Resources: 2 loaded, 0 failed
+[2022-10-01 09:29:23] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 09:29:23] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 09:31:08] QUIT: XeroXipher left the game [Quit]
+[2022-10-01 09:32:50] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 09:32:50] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 09:35:33] Server stopped!
+[2022-10-01 09:35:33] Stopping resources....
+[2022-10-01 09:35:33] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : || True Life of Crime RP ||
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-10-01 09:35:41] Resources: 2 loaded, 0 failed
+[2022-10-01 09:35:41] MODULE: File not found - mods\deathmatch\modules\mta_mysql.dll
+[2022-10-01 09:35:41] Starting resources....
+[2022-10-01 09:35:41] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-10-01 09:35:41] Server started and is ready to accept connections!
+[2022-10-01 09:35:41] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-01 09:35:41] Type 'help' for a list of commands.
+[2022-10-01 09:35:41] Querying MTA master server... success! (Auto detected IP:129.222.185.67)
+[2022-10-01 09:35:56] Server minclientversion is now 1.5.9-9.21261.0
+[2022-10-01 09:35:56] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 09:35:56] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 09:38:01] start: Requested by Console
+[2022-10-01 09:38:01] Starting vehicles
+[2022-10-01 09:38:01] start: Resource 'vehicles' started
+[2022-10-01 09:38:41] QUIT: XeroXipher left the game [Quit]
+[2022-10-01 09:46:15] start: Requested by Console
+[2022-10-01 09:46:15] start: Resource is already running
+[2022-10-01 09:47:24] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 09:47:28] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 09:48:02] CHAT: XeroXipher: createvehicle 400
+[2022-10-01 09:48:40] stop: Requested by Console
+[2022-10-01 09:48:40] stop: Resource stopping
+[2022-10-01 09:48:40] Stopping vehicles
+[2022-10-01 09:51:04] start: Requested by Console
+[2022-10-01 09:51:04] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 09:51:04] Starting vehicles
+[2022-10-01 09:51:04] start: Resource 'vehicles' started
+[2022-10-01 09:52:44] QUIT: XeroXipher left the game [Quit]
+[2022-10-01 09:59:22] restart: Requested by Console
+[2022-10-01 09:59:22] restart: Resource restarting...
+[2022-10-01 09:59:22] Stopping vehicles
+[2022-10-01 09:59:22] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 09:59:22] Starting vehicles
+[2022-10-01 09:59:22] vehicles restarted successfully
+[2022-10-01 09:59:31] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 09:59:31] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 10:01:17] QUIT: XeroXipher left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : || True Life of Crime RP ||
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-10-01 11:34:55] Resources: 3 loaded, 0 failed
+[2022-10-01 11:34:55] ERROR: Could not bind the server on interface '' and port '22003'!
+[2022-10-01 11:34:56] Server stopped!
+[2022-10-01 11:34:56] Stopping resources...
+[2022-10-01 11:34:56] Closing SQLite3 database
+[2022-10-01 11:35:23] * Syntax: restart <resource-name>
+[2022-10-01 11:35:29] * Syntax: stop <resource-name>
+[2022-10-01 11:35:38] Server stopped!
+[2022-10-01 11:35:38] Stopping resources.....
+[2022-10-01 11:35:38] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : || True Life of Crime RP ||
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-10-01 11:35:42] Resources: 3 loaded, 0 failed
+[2022-10-01 11:35:42] MODULE: File not found - mods\deathmatch\modules\mta_mysql.dll
+[2022-10-01 11:35:42] Starting resources...
+[2022-10-01 11:35:42] WARNING: db\db.lua:5: Bad usage @ 'dbConnect' [Not valid type]
+[2022-10-01 11:35:42] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-10-01 11:35:42] Server started and is ready to accept connections!
+[2022-10-01 11:35:42] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-01 11:35:42] Type 'help' for a list of commands.
+[2022-10-01 11:35:43] Querying MTA master server... success! (Auto detected IP:129.222.185.67)
+[2022-10-01 11:36:00] Server minclientversion is now 1.5.9-9.21261.0
+[2022-10-01 11:36:00] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 11:36:00] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 11:36:19] WARNING: vehicles\vehicles.lua:5: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2022-10-01 11:36:19] ERROR: vehicles\vehicles.lua:8: attempt to perform arithmetic on global 'y' (a nil value)
+[2022-10-01 11:36:38] WARNING: vehicles\vehicles.lua:5: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2022-10-01 11:36:38] ERROR: vehicles\vehicles.lua:8: attempt to perform arithmetic on global 'y' (a nil value)
+[2022-10-01 11:39:15] Server stopped!
+[2022-10-01 11:39:15] Stopping resources......
+[2022-10-01 11:39:15] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : || True Life of Crime RP ||
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-10-01 11:39:21] Resources: 3 loaded, 0 failed
+[2022-10-01 11:39:21] MODULE: File not found - mods\deathmatch\modules\mta_mysql.dll
+[2022-10-01 11:39:21] Starting resources...
+[2022-10-01 11:39:21] WARNING: db\db.lua:5: Bad usage @ 'dbConnect' [Not valid type]
+[2022-10-01 11:39:21] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-10-01 11:39:21] Server started and is ready to accept connections!
+[2022-10-01 11:39:21] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-01 11:39:21] Type 'help' for a list of commands.
+[2022-10-01 11:39:21] Querying MTA master server... success! (Auto detected IP:129.222.185.67)
+[2022-10-01 11:39:32] Server minclientversion is now 1.5.9-9.21261.0
+[2022-10-01 11:39:32] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 11:39:32] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 11:39:43] WARNING: vehicles\vehicles.lua:5: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2022-10-01 11:39:43] ERROR: vehicles\vehicles.lua:8: attempt to perform arithmetic on global 'y' (a nil value)
+[2022-10-01 11:40:58] Server stopped!
+[2022-10-01 11:40:58] Stopping resources......
+[2022-10-01 11:40:58] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : || True Life of Crime RP ||
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-10-01 11:41:03] Resources: 3 loaded, 0 failed
+[2022-10-01 11:41:04] MODULE: File not found - mods\deathmatch\modules\mta_mysql.dll
+[2022-10-01 11:41:04] Starting resources...
+[2022-10-01 11:41:04] WARNING: db\db.lua:5: Bad usage @ 'dbConnect' [Not valid type]
+[2022-10-01 11:41:04] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-10-01 11:41:04] Server started and is ready to accept connections!
+[2022-10-01 11:41:04] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-01 11:41:04] Type 'help' for a list of commands.
+[2022-10-01 11:41:04] Querying MTA master server... success! (Auto detected IP:129.222.185.67)
+[2022-10-01 11:42:24] Server stopped!
+[2022-10-01 11:42:24] Stopping resources......
+[2022-10-01 11:42:24] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : || True Life of Crime RP ||
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-10-01 11:42:29] Resources: 3 loaded, 0 failed
+[2022-10-01 11:42:29] MODULE: File not found - mods\deathmatch\modules\mta_mysql.dll
+[2022-10-01 11:42:29] Starting resources......
+[2022-10-01 11:42:29] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-10-01 11:42:29] Server started and is ready to accept connections!
+[2022-10-01 11:42:29] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-01 11:42:29] Type 'help' for a list of commands.
+[2022-10-01 11:42:30] Querying MTA master server... success! (Auto detected IP:129.222.185.67)
+[2022-10-01 11:43:07] Server minclientversion is now 1.5.9-9.21261.0
+[2022-10-01 11:43:07] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 11:43:07] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 11:44:03] ERROR: vehicles\vehicles.lua:4: attempt to perform arithmetic on global 'y' (a nil value)
+[2022-10-01 11:45:02] Server stopped!
+[2022-10-01 11:45:02] Stopping resources......
+[2022-10-01 11:45:02] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : || True Life of Crime RP ||
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-10-01 11:45:08] Resources: 3 loaded, 0 failed
+[2022-10-01 11:45:08] MODULE: File not found - mods\deathmatch\modules\mta_mysql.dll
+[2022-10-01 11:45:08] Starting resources......
+[2022-10-01 11:45:08] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-10-01 11:45:08] Server started and is ready to accept connections!
+[2022-10-01 11:45:08] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-01 11:45:08] Type 'help' for a list of commands.
+[2022-10-01 11:45:08] Querying MTA master server... success! (Auto detected IP:129.222.185.67)
+[2022-10-01 11:45:23] Server minclientversion is now 1.5.9-9.21261.0
+[2022-10-01 11:45:23] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 11:45:23] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 11:45:48] WARNING: vehicles\vehicles.lua:6: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2022-10-01 11:45:48] ERROR: vehicles\vehicles.lua:9: attempt to perform arithmetic on global 'y' (a nil value)
+[2022-10-01 11:50:06] Server stopped!
+[2022-10-01 11:50:06] Stopping resources......
+[2022-10-01 11:50:06] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : || True Life of Crime RP ||
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-10-01 11:50:13] Resources: 3 loaded, 0 failed
+[2022-10-01 11:50:13] MODULE: File not found - mods\deathmatch\modules\mta_mysql.dll
+[2022-10-01 11:50:13] Starting resources......
+[2022-10-01 11:50:13] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-10-01 11:50:13] Server started and is ready to accept connections!
+[2022-10-01 11:50:13] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-01 11:50:13] Type 'help' for a list of commands.
+[2022-10-01 11:50:13] Querying MTA master server... success! (Auto detected IP:129.222.185.67)
+[2022-10-01 11:50:39] Server minclientversion is now 1.5.9-9.21261.0
+[2022-10-01 11:50:39] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 11:50:39] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 11:50:52] WARNING: vehicles\vehicles.lua:10: Bad argument @ 'createVehicle' [Expected number at argument 1, got nil]
+[2022-10-01 11:50:52] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2022-10-01 12:18:31] QUIT: XeroXipher left the game [Quit]
+[2022-10-01 12:19:07] restart: Requested by Console
+[2022-10-01 12:19:07] restart: Resource restarting...
+[2022-10-01 12:19:07] Stopping vehicles
+[2022-10-01 12:19:07] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 12:19:07] Starting vehicles
+[2022-10-01 12:19:07] SCRIPT ERROR: vehicles\vehicles.lua:20: '<name>' expected near '.'
+[2022-10-01 12:19:07] ERROR: Loading script failed: vehicles\vehicles.lua:20: '<name>' expected near '.'
+[2022-10-01 12:19:07] vehicles restarted successfully
+[2022-10-01 12:20:01] restart: Requested by Console
+[2022-10-01 12:20:01] restart: Resource restarting...
+[2022-10-01 12:20:01] Stopping vehicles
+[2022-10-01 12:20:01] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 12:20:01] Starting vehicles
+[2022-10-01 12:20:01] SCRIPT ERROR: vehicles\vehicles.lua:20: '<name>' expected near '.'
+[2022-10-01 12:20:01] ERROR: Loading script failed: vehicles\vehicles.lua:20: '<name>' expected near '.'
+[2022-10-01 12:20:01] vehicles restarted successfully
+[2022-10-01 12:21:41] restart: Requested by Console
+[2022-10-01 12:21:41] restart: Resource restarting...
+[2022-10-01 12:21:41] Stopping vehicles
+[2022-10-01 12:21:41] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 12:21:41] Starting vehicles
+[2022-10-01 12:21:41] SCRIPT ERROR: vehicles\vehicles.lua:32: 'end' expected (to close 'function' at line 17) near '<eof>'
+[2022-10-01 12:21:41] ERROR: Loading script failed: vehicles\vehicles.lua:32: 'end' expected (to close 'function' at line 17) near '<eof>'
+[2022-10-01 12:21:41] vehicles restarted successfully
+[2022-10-01 12:23:17] restart: Requested by Console
+[2022-10-01 12:23:17] restart: Resource restarting...
+[2022-10-01 12:23:17] Stopping vehicles
+[2022-10-01 12:23:17] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 12:23:17] Starting vehicles
+[2022-10-01 12:23:17] vehicles restarted successfully
+[2022-10-01 12:23:17] ERROR: vehicles\vehicles.lua:20: attempt to call global 'pair' (a nil value)
+[2022-10-01 12:23:35] restart: Requested by Console
+[2022-10-01 12:23:35] restart: Resource restarting...
+[2022-10-01 12:23:35] Stopping vehicles
+[2022-10-01 12:23:35] Starting vehicles
+[2022-10-01 12:23:35] vehicles restarted successfully
+[2022-10-01 12:23:35] ERROR: vehicles\vehicles.lua:20: attempt to call global 'pair' (a nil value)
+[2022-10-01 12:24:29] restart: Requested by Console
+[2022-10-01 12:24:29] restart: Resource restarting...
+[2022-10-01 12:24:29] Stopping vehicles
+[2022-10-01 12:24:29] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 12:24:29] Starting vehicles
+[2022-10-01 12:24:29] SCRIPT ERROR: vehicles\vehicles.lua:32: 'end' expected (to close 'function' at line 17) near '<eof>'
+[2022-10-01 12:24:29] ERROR: Loading script failed: vehicles\vehicles.lua:32: 'end' expected (to close 'function' at line 17) near '<eof>'
+[2022-10-01 12:24:29] vehicles restarted successfully
+[2022-10-01 12:26:11] restart: Requested by Console
+[2022-10-01 12:26:11] restart: Resource restarting...
+[2022-10-01 12:26:11] Stopping vehicles
+[2022-10-01 12:26:11] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 12:26:11] Starting vehicles
+[2022-10-01 12:26:11] vehicles restarted successfully
+[2022-10-01 12:26:11] ERROR: vehicles\vehicles.lua:21: attempt to index global 'Vehicle' (a nil value)
+[2022-10-01 12:27:45] restart: Requested by Console
+[2022-10-01 12:27:45] restart: Resource restarting...
+[2022-10-01 12:27:45] Stopping vehicles
+[2022-10-01 12:27:45] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 12:27:45] Starting vehicles
+[2022-10-01 12:27:45] vehicles restarted successfully
+[2022-10-01 12:27:45] ERROR: vehicles\vehicles.lua:23: attempt to index global 'Vehicle' (a nil value)
+[2022-10-01 12:30:22] restart: Requested by Console
+[2022-10-01 12:30:22] restart: Resource restarting...
+[2022-10-01 12:30:22] Stopping vehicles
+[2022-10-01 12:30:22] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 12:30:22] Starting vehicles
+[2022-10-01 12:30:22] vehicles restarted successfully
+[2022-10-01 12:30:44] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 12:30:44] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 12:32:08] restart: Requested by Console
+[2022-10-01 12:32:08] restart: Resource restarting...
+[2022-10-01 12:32:08] Stopping vehicles
+[2022-10-01 12:32:08] Starting vehicles
+[2022-10-01 12:32:08] vehicles restarted successfully
+[2022-10-01 12:33:55] restart: Requested by Console
+[2022-10-01 12:33:55] restart: Resource restarting...
+[2022-10-01 12:33:55] Stopping vehicles
+[2022-10-01 12:33:55] Starting vehicles
+[2022-10-01 12:33:55] vehicles restarted successfully
+[2022-10-01 12:36:20] restart: Requested by Console
+[2022-10-01 12:36:20] restart: Resource restarting...
+[2022-10-01 12:36:20] Stopping vehicles
+[2022-10-01 12:36:21] Starting vehicles
+[2022-10-01 12:36:21] vehicles restarted successfully
+[2022-10-01 12:37:32] restart: Requested by Console
+[2022-10-01 12:37:32] restart: Resource restarting...
+[2022-10-01 12:37:32] Stopping vehicles
+[2022-10-01 12:37:32] Starting vehicles
+[2022-10-01 12:37:32] vehicles restarted successfully
+[2022-10-01 13:21:16] restart: Requested by Console
+[2022-10-01 13:21:16] restart: Resource restarting...
+[2022-10-01 13:21:16] Stopping vehicles
+[2022-10-01 13:21:16] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:21:16] Starting vehicles
+[2022-10-01 13:21:16] SCRIPT ERROR: vehicles\vehicles.lua:22: ')' expected (to close '(' at line 13) near ';'
+[2022-10-01 13:21:16] ERROR: Loading script failed: vehicles\vehicles.lua:22: ')' expected (to close '(' at line 13) near ';'
+[2022-10-01 13:21:16] vehicles restarted successfully
+[2022-10-01 13:22:27] restart: Requested by Console
+[2022-10-01 13:22:27] restart: Resource restarting...
+[2022-10-01 13:22:27] Stopping vehicles
+[2022-10-01 13:22:27] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:22:27] Starting vehicles
+[2022-10-01 13:22:27] SCRIPT ERROR: vehicles\vehicles.lua:13: unexpected symbol near ')'
+[2022-10-01 13:22:27] ERROR: Loading script failed: vehicles\vehicles.lua:13: unexpected symbol near ')'
+[2022-10-01 13:22:27] vehicles restarted successfully
+[2022-10-01 13:24:25] restart: Requested by Console
+[2022-10-01 13:24:25] restart: Resource restarting...
+[2022-10-01 13:24:25] Stopping vehicles
+[2022-10-01 13:24:25] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:24:25] Starting vehicles
+[2022-10-01 13:24:25] SCRIPT ERROR: vehicles\vehicles.lua:22: ')' expected (to close '(' at line 13) near ';'
+[2022-10-01 13:24:25] ERROR: Loading script failed: vehicles\vehicles.lua:22: ')' expected (to close '(' at line 13) near ';'
+[2022-10-01 13:24:25] vehicles restarted successfully
+[2022-10-01 13:25:00] restart: Requested by Console
+[2022-10-01 13:25:00] restart: Resource restarting...
+[2022-10-01 13:25:00] Stopping vehicles
+[2022-10-01 13:25:00] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:25:00] Starting vehicles
+[2022-10-01 13:25:00] SCRIPT ERROR: vehicles\vehicles.lua:22: ')' expected (to close '(' at line 13) near ';'
+[2022-10-01 13:25:00] ERROR: Loading script failed: vehicles\vehicles.lua:22: ')' expected (to close '(' at line 13) near ';'
+[2022-10-01 13:25:00] vehicles restarted successfully
+[2022-10-01 13:27:47] restart: Requested by Console
+[2022-10-01 13:27:47] restart: Resource restarting...
+[2022-10-01 13:27:47] Stopping vehicles
+[2022-10-01 13:27:47] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:27:47] Starting vehicles
+[2022-10-01 13:27:47] SCRIPT ERROR: vehicles\vehicles.lua:13: '=' expected near ')'
+[2022-10-01 13:27:47] ERROR: Loading script failed: vehicles\vehicles.lua:13: '=' expected near ')'
+[2022-10-01 13:27:47] vehicles restarted successfully
+[2022-10-01 13:30:21] restart: Requested by Console
+[2022-10-01 13:30:21] restart: Resource restarting...
+[2022-10-01 13:30:21] Stopping vehicles
+[2022-10-01 13:30:21] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:30:21] Starting vehicles
+[2022-10-01 13:30:21] SCRIPT ERROR: vehicles\vehicles.lua:22: ')' expected (to close '(' at line 13) near ';'
+[2022-10-01 13:30:21] ERROR: Loading script failed: vehicles\vehicles.lua:22: ')' expected (to close '(' at line 13) near ';'
+[2022-10-01 13:30:21] vehicles restarted successfully
+[2022-10-01 13:31:05] restart: Requested by Console
+[2022-10-01 13:31:05] restart: Resource restarting...
+[2022-10-01 13:31:05] Stopping vehicles
+[2022-10-01 13:31:05] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:31:05] Starting vehicles
+[2022-10-01 13:31:05] SCRIPT ERROR: vehicles\vehicles.lua:47: <name> or '...' expected near 'local'
+[2022-10-01 13:31:05] ERROR: Loading script failed: vehicles\vehicles.lua:47: <name> or '...' expected near 'local'
+[2022-10-01 13:31:05] vehicles restarted successfully
+[2022-10-01 13:33:23] restart: Requested by Console
+[2022-10-01 13:33:23] restart: Resource restarting...
+[2022-10-01 13:33:23] Stopping vehicles
+[2022-10-01 13:33:23] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:33:23] Starting vehicles
+[2022-10-01 13:33:23] SCRIPT ERROR: vehicles\vehicles.lua:47: <name> or '...' expected near 'local'
+[2022-10-01 13:33:23] ERROR: Loading script failed: vehicles\vehicles.lua:47: <name> or '...' expected near 'local'
+[2022-10-01 13:33:23] vehicles restarted successfully
+[2022-10-01 13:35:53] restart: Requested by Console
+[2022-10-01 13:35:53] restart: Resource restarting...
+[2022-10-01 13:35:53] Stopping vehicles
+[2022-10-01 13:35:53] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:35:53] Starting vehicles
+[2022-10-01 13:35:53] SCRIPT ERROR: vehicles\vehicles.lua:59: unexpected symbol near ')'
+[2022-10-01 13:35:53] ERROR: Loading script failed: vehicles\vehicles.lua:59: unexpected symbol near ')'
+[2022-10-01 13:35:53] vehicles restarted successfully
+[2022-10-01 13:38:50] restart: Requested by Console
+[2022-10-01 13:38:50] restart: Resource restarting...
+[2022-10-01 13:38:50] Stopping vehicles
+[2022-10-01 13:38:50] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:38:50] Starting vehicles
+[2022-10-01 13:38:50] vehicles restarted successfully
+[2022-10-01 13:39:37] CHAT: XeroXipher: Okay, so now, it should save the cars position and as many that are on the map but it will not 
+[2022-10-01 13:39:42] CHAT: XeroXipher: save rotation
+[2022-10-01 13:39:53] CHAT: XeroXipher: So it'll always respawn facing North
+[2022-10-01 13:40:26] CHAT: XeroXipher: My homework is to try to figure out how to keep it's rotation but my eyes are burning so
+[2022-10-01 13:40:35] CHAT: XeroXipher: I'm doing it a bit later
+[2022-10-01 13:41:11] restart: Requested by Console
+[2022-10-01 13:41:11] restart: Resource restarting...
+[2022-10-01 13:41:11] Stopping vehicles
+[2022-10-01 13:41:11] Starting vehicles
+[2022-10-01 13:41:11] vehicles restarted successfully
+[2022-10-01 13:41:11] WARNING: vehicles\vehicles.lua:55: dbExec failed; (1) near "WHERE": syntax error
+[2022-10-01 13:43:10] restart: Requested by Console
+[2022-10-01 13:43:10] restart: Resource restarting...
+[2022-10-01 13:43:10] Stopping vehicles
+[2022-10-01 13:43:10] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:43:10] Starting vehicles
+[2022-10-01 13:43:10] vehicles restarted successfully
+[2022-10-01 13:43:10] WARNING: vehicles\vehicles.lua:55: dbExec failed; (1) near "WHERE": syntax error
+[2022-10-01 13:46:53] restart: Requested by Console
+[2022-10-01 13:46:53] restart: Resource restarting...
+[2022-10-01 13:46:53] Stopping vehicles
+[2022-10-01 13:46:53] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:46:53] Starting vehicles
+[2022-10-01 13:46:53] vehicles restarted successfully
+[2022-10-01 13:48:12] restart: Requested by Console
+[2022-10-01 13:48:12] restart: Resource restarting...
+[2022-10-01 13:48:12] Stopping vehicles
+[2022-10-01 13:48:12] Starting vehicles
+[2022-10-01 13:48:12] vehicles restarted successfully
+[2022-10-01 13:54:40] stop: Requested by Console
+[2022-10-01 13:54:40] stop: Resource stopping
+[2022-10-01 13:54:40] Stopping vehicles
+[2022-10-01 13:55:13] start: Requested by Console
+[2022-10-01 13:55:13] Starting vehicles
+[2022-10-01 13:55:13] start: Resource 'vehicles' started
+[2022-10-01 13:57:41] restart: Requested by Console
+[2022-10-01 13:57:41] restart: Resource restarting...
+[2022-10-01 13:57:41] Stopping vehicles
+[2022-10-01 13:57:41] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 13:57:41] Starting vehicles
+[2022-10-01 13:57:41] vehicles restarted successfully
+[2022-10-01 13:59:00] restart: Requested by Console
+[2022-10-01 13:59:00] restart: Resource restarting...
+[2022-10-01 13:59:00] Stopping vehicles
+[2022-10-01 13:59:00] Starting vehicles
+[2022-10-01 13:59:00] vehicles restarted successfully
+[2022-10-01 14:03:48] restart: Requested by Console
+[2022-10-01 14:03:48] restart: Resource restarting...
+[2022-10-01 14:03:48] Stopping vehicles
+[2022-10-01 14:03:48] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 14:03:48] Starting vehicles
+[2022-10-01 14:03:48] vehicles restarted successfully
+[2022-10-01 14:03:48] WARNING: vehicles\vehicles.lua:30: dbPoll failed; SQL logic error
+[2022-10-01 14:03:48] ERROR: vehicles\vehicles.lua:32: bad argument #1 to 'pairs' (table expected, got boolean)
+[2022-10-01 14:04:54] ERROR: vehicles\vehicles.lua:19: attempt to index global 'vehicle' (a nil value)
+[2022-10-01 14:05:22] restart: Requested by Console
+[2022-10-01 14:05:22] restart: Resource restarting...
+[2022-10-01 14:05:22] Stopping vehicles
+[2022-10-01 14:05:22] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 14:05:22] Starting vehicles
+[2022-10-01 14:05:22] vehicles restarted successfully
+[2022-10-01 14:06:33] restart: Requested by Console
+[2022-10-01 14:06:33] restart: Resource restarting...
+[2022-10-01 14:06:33] Stopping vehicles
+[2022-10-01 14:06:33] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 14:06:33] Starting vehicles
+[2022-10-01 14:06:33] vehicles restarted successfully
+[2022-10-01 14:06:50] QUIT: XeroXipher left the game [Timed out]
+[2022-10-01 14:07:31] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 14:07:36] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 14:10:17] restart: Requested by Console
+[2022-10-01 14:10:17] restart: Resource restarting...
+[2022-10-01 14:10:17] Stopping vehicles
+[2022-10-01 14:10:17] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 14:10:17] Starting vehicles
+[2022-10-01 14:10:17] vehicles restarted successfully
+[2022-10-01 14:13:11] restart: Requested by Console
+[2022-10-01 14:13:11] restart: Resource restarting...
+[2022-10-01 14:13:11] Stopping vehicles
+[2022-10-01 14:13:11] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 14:13:11] Starting vehicles
+[2022-10-01 14:13:11] vehicles restarted successfully
+[2022-10-01 14:18:01] restart: Requested by Console
+[2022-10-01 14:18:01] restart: Resource restarting...
+[2022-10-01 14:18:01] Stopping vehicles
+[2022-10-01 14:18:01] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 14:18:01] Starting vehicles
+[2022-10-01 14:18:01] vehicles restarted successfully
+[2022-10-01 14:20:32] restart: Requested by Console
+[2022-10-01 14:20:32] restart: Resource restarting...
+[2022-10-01 14:20:32] Stopping vehicles
+[2022-10-01 14:20:32] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 14:20:32] Starting vehicles
+[2022-10-01 14:20:32] vehicles restarted successfully
+[2022-10-01 14:24:50] restart: Requested by Console
+[2022-10-01 14:24:50] restart: Resource restarting...
+[2022-10-01 14:24:50] Stopping vehicles
+[2022-10-01 14:24:50] WARNING: vehicles\vehicles.lua:51: Bad argument @ 'getElementID' [Expected element at argument 1, got nil]
+[2022-10-01 14:24:50] WARNING: vehicles\vehicles.lua:52: Bad argument @ 'getElementPosition' [Expected element at argument 1, got nil]
+[2022-10-01 14:24:50] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 14:24:50] Starting vehicles
+[2022-10-01 14:24:50] vehicles restarted successfully
+[2022-10-01 14:24:56] WARNING: vehicles\vehicles.lua:51: Bad argument @ 'getElementID' [Expected element at argument 1, got nil]
+[2022-10-01 14:24:56] WARNING: vehicles\vehicles.lua:52: Bad argument @ 'getElementPosition' [Expected element at argument 1, got nil]
+[2022-10-01 14:27:50] restart: Requested by Console
+[2022-10-01 14:27:50] restart: Resource restarting...
+[2022-10-01 14:27:50] Stopping vehicles
+[2022-10-01 14:27:50] WARNING: vehicles\vehicles.lua:51: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[2022-10-01 14:27:50] WARNING: vehicles\vehicles.lua:52: Bad argument @ 'getElementPosition' [Expected element at argument 1, got nil]
+[2022-10-01 14:27:50] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 14:27:50] Starting vehicles
+[2022-10-01 14:27:50] vehicles restarted successfully
+[2022-10-01 14:27:56] WARNING: vehicles\vehicles.lua:51: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[2022-10-01 14:27:56] WARNING: vehicles\vehicles.lua:52: Bad argument @ 'getElementPosition' [Expected element at argument 1, got nil]
+[2022-10-01 14:43:20] restart: Requested by Console
+[2022-10-01 14:43:20] restart: Resource restarting...
+[2022-10-01 14:43:20] Stopping vehicles
+[2022-10-01 14:43:20] Starting vehicles
+[2022-10-01 14:43:20] vehicles restarted successfully
+[2022-10-01 14:44:21] restart: Requested by Console
+[2022-10-01 14:44:21] restart: Resource restarting...
+[2022-10-01 14:44:21] Stopping vehicles
+[2022-10-01 14:44:21] Starting vehicles
+[2022-10-01 14:44:21] vehicles restarted successfully
+[2022-10-01 14:44:59] restart: Requested by Console
+[2022-10-01 14:44:59] restart: Resource restarting...
+[2022-10-01 14:44:59] Stopping vehicles
+[2022-10-01 14:44:59] Starting vehicles
+[2022-10-01 14:44:59] vehicles restarted successfully
+[2022-10-01 15:00:17] QUIT: XeroXipher left the game [Quit]
+[2022-10-01 15:16:53] restart: Requested by Console
+[2022-10-01 15:16:53] restart: Resource restarting...
+[2022-10-01 15:16:53] Stopping vehicles
+[2022-10-01 15:16:53] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 15:16:53] Starting vehicles
+[2022-10-01 15:16:53] vehicles restarted successfully
+[2022-10-01 15:17:39] CONNECT: XeroXipher connected (IP: 169.254.78.185  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 15:17:42] JOIN: XeroXipher joined the game (IP: 169.254.78.185)
+[2022-10-01 15:20:31] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) table vehicles has no column named rx
+[2022-10-01 15:23:06] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2022-10-01 15:23:06] ERROR: vehicles\vehicles.lua:19: attempt to index local 'vehicle' (a nil value)
+[2022-10-01 15:26:37] restart: Requested by Console
+[2022-10-01 15:26:37] restart: Resource restarting...
+[2022-10-01 15:26:37] Stopping vehicles
+[2022-10-01 15:26:37] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 15:26:37] Starting vehicles
+[2022-10-01 15:26:37] vehicles restarted successfully
+[2022-10-01 15:27:14] WARNING: vehicles\vehicles.lua:8: Bad argument @ 'getVehicleRotation' [Expected vehicle at argument 1, got nil]
+[2022-10-01 15:27:14] WARNING: vehicles\vehicles.lua:10: dbExec failed; (1) SQL logic error
+[2022-10-01 15:27:14] ERROR: vehicles\vehicles.lua:20: attempt to index local 'vehicle' (a nil value)
+[2022-10-01 15:28:54] restart: Requested by Console
+[2022-10-01 15:28:54] restart: Resource restarting...
+[2022-10-01 15:28:54] Stopping vehicles
+[2022-10-01 15:28:54] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 15:28:54] Starting vehicles
+[2022-10-01 15:28:54] vehicles restarted successfully
+[2022-10-01 15:29:11] WARNING: vehicles\vehicles.lua:8: Bad argument @ 'getVehicleRotation' [Expected vehicle at argument 1, got nil]
+[2022-10-01 15:29:11] WARNING: vehicles\vehicles.lua:12: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2022-10-01 15:29:11] WARNING: vehicles\vehicles.lua:10: dbExec failed; (1) SQL logic error
+[2022-10-01 15:29:11] ERROR: vehicles\vehicles.lua:20: attempt to index local 'vehicle' (a nil value)
+[2022-10-01 15:31:51] restart: Requested by Console
+[2022-10-01 15:31:51] restart: Resource restarting...
+[2022-10-01 15:31:51] Stopping vehicles
+[2022-10-01 15:31:51] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 15:31:51] Starting vehicles
+[2022-10-01 15:31:51] vehicles restarted successfully
+[2022-10-01 15:32:11] WARNING: vehicles\vehicles.lua:8: Bad argument @ 'getVehicleRotation' [Expected vehicle at argument 1, got nil]
+[2022-10-01 15:32:17] WARNING: vehicles\vehicles.lua:12: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2022-10-01 15:32:17] WARNING: vehicles\vehicles.lua:10: dbExec failed; (1) SQL logic error
+[2022-10-01 15:32:17] ERROR: vehicles\vehicles.lua:20: attempt to index local 'vehicle' (a nil value)
+[2022-10-01 15:40:11] restart: Requested by Console
+[2022-10-01 15:40:11] restart: Resource restarting...
+[2022-10-01 15:40:11] Stopping vehicles
+[2022-10-01 15:40:11] Resource 'vehicles' changed, reloading and starting
+[2022-10-01 15:40:11] Starting vehicles
+[2022-10-01 15:40:11] vehicles restarted successfully
+[2022-10-01 15:41:15] restart: Requested by Console
+[2022-10-01 15:41:15] restart: Resource restarting...
+[2022-10-01 15:41:15] Stopping vehicles
+[2022-10-01 15:41:15] Starting vehicles
+[2022-10-01 15:41:15] vehicles restarted successfully
+[2022-10-01 15:41:40] restart: Requested by Console
+[2022-10-01 15:41:40] restart: Resource restarting...
+[2022-10-01 15:41:40] Stopping vehicles
+[2022-10-01 15:41:40] Starting vehicles
+[2022-10-01 15:41:40] vehicles restarted successfully
+[2022-10-01 15:44:56] QUIT: XeroXipher left the game [Quit]
+[2022-10-01 15:57:08] Server stopped!
+[2022-10-01 15:57:08] Stopping resources.....
+[2022-10-01 15:57:08] ERROR: vehicles\vehicles.lua:48: exports: Call to non-running server resource (db) [string "?"]
+[2022-10-01 15:57:08] WARNING: vehicles\vehicles.lua:56: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2022-10-01 15:57:08] Closing SQLite3 database

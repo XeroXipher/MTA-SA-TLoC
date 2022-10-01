@@ -1,0 +1,27 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-10-01 08:48:10] File 'settings.xml' not present, creating new node.
+[2022-10-01 08:48:10] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2022-10-01 08:48:15] Resources: 193 loaded, 0 failed
+[2022-10-01 08:48:15] Starting resources...
+[2022-10-01 08:48:15] Server minclientversion is now 1.5.7-9.19626
+[2022-10-01 08:48:16] Server started and is ready to accept connections!
+[2022-10-01 08:48:16] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-01 08:48:16] Type 'help' for a list of commands.
+[2022-10-01 08:48:16] CONNECT: XeroXipher connected (IP: 127.0.0.1  Serial: 5E62254253E19687AF661FFB478674F0  Version: 1.5.9-9.21334.0)
+[2022-10-01 08:48:20] JOIN: XeroXipher joined the game (IP: 127.0.0.1)
+[2022-10-01 08:49:58] QUIT: XeroXipher left the game [Quit]
+[2022-10-01 08:49:59] Server stopped!
+[2022-10-01 08:49:59] Stopping resources..........
+[2022-10-01 08:49:59] Closing SQLite3 database
